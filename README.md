@@ -7,7 +7,7 @@
 (<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />)
 (img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26")
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-(https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code")
+(https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC)
 ### 📈  My stats
 ![](https://www.codewars.com/users/TimE0is0ReaL/badges/large)
 
