@@ -10,6 +10,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+## 📈  My GitHub stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliaksandr-Makhakhei)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aliaksandr-Makhakhei&show_icons=true)  
