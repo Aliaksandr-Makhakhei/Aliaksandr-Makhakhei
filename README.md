@@ -1,8 +1,14 @@
 ### Hi there 👋, my name is Sasha
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
-Skills: / REACT / JS / CSS / HTML
+
+## ⚡ Technologies
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
 
